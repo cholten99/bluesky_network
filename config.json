@@ -1,0 +1,13 @@
+{
+    "db_config": {
+        "dbname": "pinpoint",
+        "user": "dbuser",
+        "password": "PewS$6BB{@e)q#;",
+        "host": "localhost",
+        "port": "5432"
+    },
+    "bluesky_config": {
+        "app_password": "oqza-vu6c-ue5l-kvzk"
+    }
+}
+
